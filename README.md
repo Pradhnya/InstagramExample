@@ -20,6 +20,6 @@ Added
 
 <p>
 Demo Link: <a href="https://github.com/Pradhnya/InstagramExample/blob/master/Demo/demo.gif"> <br> <br>
-<img border="0" alt="W3Schools" src="https://github.com/Pradhnya/InstagramExample/blob/master/Demo/demo.gif" width="100%" height="100%"> <br>
+<img border="0" alt="W3Schools" src="https://github.com/Pradhnya/InstagramExample/blob/master/Demo/demo.gif" width="60%" height="60%"> <br>
 </a>
 </p>
